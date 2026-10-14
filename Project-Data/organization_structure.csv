@@ -1,0 +1,188 @@
+Department,Job_Family,Job_Level,Job_Role,Is_Manager_Level,National_Band_Min,National_Band_Midpoint,National_Band_Max
+Operations,Business Operations,L1,Associate Operations Analyst,FALSE,42120,54000,66960
+Operations,Business Operations,L2,Operations Analyst,FALSE,54756,70200,87048
+Operations,Business Operations,L3,Senior Operations Analyst,FALSE,70762,90720,112493
+Operations,Business Operations,L4,Operations Manager,TRUE,90558,116100,143964
+Operations,Business Operations,L5,Senior Operations Manager,TRUE,115830,148500,184140
+Operations,Business Operations,L6,Director of Operations,TRUE,149526,191700,237708
+Operations,Service Delivery,L1,Associate Service Delivery Coordinator,FALSE,37440,48000,59520
+Operations,Service Delivery,L2,Service Delivery Coordinator,FALSE,48672,62400,77376
+Operations,Service Delivery,L3,Senior Service Delivery Coordinator,FALSE,62899,80640,99994
+Operations,Service Delivery,L4,Service Delivery Manager,TRUE,80496,103200,127968
+Operations,Service Delivery,L5,Senior Service Delivery Manager,TRUE,102960,132000,163680
+Operations,Service Delivery,L6,Director of Service Delivery,TRUE,132912,170400,211296
+Operations,Process Excellence,L1,Associate Process Improvement Specialist,FALSE,48360,62000,76880
+Operations,Process Excellence,L2,Process Improvement Specialist,FALSE,62868,80600,99944
+Operations,Process Excellence,L3,Senior Process Improvement Specialist,FALSE,81245,104160,129158
+Operations,Process Excellence,L4,Process Excellence Manager,TRUE,103974,133300,165292
+Operations,Process Excellence,L5,Senior Process Excellence Manager,TRUE,132990,170500,211420
+Operations,Executive Leadership,L7,"Vice President, Operations",TRUE,252252,323400,401016
+Technology,Software Engineering,L1,Associate Software Engineer,FALSE,68640,88000,109120
+Technology,Software Engineering,L2,Software Engineer,FALSE,89232,114400,141856
+Technology,Software Engineering,L3,Senior Software Engineer,FALSE,115315,147840,183322
+Technology,Software Engineering,L4,Engineering Manager,TRUE,147576,189200,234608
+Technology,Software Engineering,L5,Senior Engineering Manager,TRUE,188760,242000,300080
+Technology,Software Engineering,L6,Director of Engineering,TRUE,243672,312400,387376
+Technology,Data & Analytics,L1,Associate Data Engineer,FALSE,65520,84000,104160
+Technology,Data & Analytics,L2,Data Engineer,FALSE,85176,109200,135408
+Technology,Data & Analytics,L3,Senior Data Engineer,FALSE,110074,141120,174989
+Technology,Data & Analytics,L4,Data Engineering Manager,TRUE,140868,180600,223944
+Technology,Data & Analytics,L5,Senior Data Engineering Manager,TRUE,180180,231000,286440
+Technology,Data & Analytics,L6,Director of Data Engineering,TRUE,232596,298200,369768
+Technology,Infrastructure & Cloud,L1,Associate Systems Engineer,FALSE,62400,80000,99200
+Technology,Infrastructure & Cloud,L2,Systems Engineer,FALSE,81120,104000,128960
+Technology,Infrastructure & Cloud,L3,Senior Systems Engineer,FALSE,104832,134400,166656
+Technology,Infrastructure & Cloud,L4,Infrastructure Manager,TRUE,134160,172000,213280
+Technology,Infrastructure & Cloud,L5,Senior Infrastructure Manager,TRUE,171600,220000,272800
+Technology,Infrastructure & Cloud,L6,Director of Infrastructure,TRUE,221520,284000,352160
+Technology,Information Security,L1,Associate Security Analyst,FALSE,63960,82000,101680
+Technology,Information Security,L2,Security Analyst,FALSE,83148,106600,132184
+Technology,Information Security,L3,Senior Security Analyst,FALSE,107453,137760,170822
+Technology,Information Security,L4,Information Security Manager,TRUE,137514,176300,218612
+Technology,Information Security,L5,Senior Information Security Manager,TRUE,175890,225500,279620
+Technology,Information Security,L6,Director of Information Security,TRUE,227058,291100,360964
+Technology,Product Management,L1,Associate Product Manager,FALSE,70200,90000,111600
+Technology,Product Management,L2,Product Manager,FALSE,91260,117000,145080
+Technology,Product Management,L3,Senior Product Manager,FALSE,117936,151200,187488
+Technology,Product Management,L4,Group Product Manager,TRUE,150930,193500,239940
+Technology,Product Management,L5,Senior Group Product Manager,TRUE,193050,247500,306900
+Technology,Product Management,L6,Director of Product Management,TRUE,249210,319500,396180
+Technology,Technology Support,L1,Associate Support Technician,FALSE,40560,52000,64480
+Technology,Technology Support,L2,Support Technician,FALSE,52728,67600,83824
+Technology,Technology Support,L3,Senior Support Technician,FALSE,68141,87360,108326
+Technology,Technology Support,L4,Technology Support Manager,TRUE,87204,111800,138632
+Technology,Executive Leadership,L7,"Vice President, Technology",TRUE,252252,323400,401016
+Client Services,Account Management,L1,Associate Account Manager,FALSE,45240,58000,71920
+Client Services,Account Management,L2,Account Manager,FALSE,58812,75400,93496
+Client Services,Account Management,L3,Senior Account Manager,FALSE,76003,97440,120826
+Client Services,Account Management,L4,Account Management Manager,TRUE,97266,124700,154628
+Client Services,Account Management,L5,Senior Account Management Manager,TRUE,124410,159500,197780
+Client Services,Account Management,L6,Director of Account Management,TRUE,160602,205900,255316
+Client Services,Client Support,L1,Associate Client Support Representative,FALSE,34320,44000,54560
+Client Services,Client Support,L2,Client Support Representative,FALSE,44616,57200,70928
+Client Services,Client Support,L3,Senior Client Support Representative,FALSE,57658,73920,91661
+Client Services,Client Support,L4,Client Support Manager,TRUE,73788,94600,117304
+Client Services,Client Support,L5,Senior Client Support Manager,TRUE,94380,121000,150040
+Client Services,Sales,L1,Associate Sales Executive,FALSE,46800,60000,74400
+Client Services,Sales,L2,Sales Executive,FALSE,60840,78000,96720
+Client Services,Sales,L3,Senior Sales Executive,FALSE,78624,100800,124992
+Client Services,Sales,L4,Sales Manager,TRUE,100620,129000,159960
+Client Services,Sales,L5,Senior Sales Manager,TRUE,128700,165000,204600
+Client Services,Sales,L6,Director of Sales,TRUE,166140,213000,264120
+Client Services,Client Onboarding,L1,Associate Implementation Specialist,FALSE,40560,52000,64480
+Client Services,Client Onboarding,L2,Implementation Specialist,FALSE,52728,67600,83824
+Client Services,Client Onboarding,L3,Senior Implementation Specialist,FALSE,68141,87360,108326
+Client Services,Client Onboarding,L4,Implementation Manager,TRUE,87204,111800,138632
+Client Services,Executive Leadership,L7,"Vice President, Client Services",TRUE,252252,323400,401016
+Finance,Accounting,L1,Accounting Associate,FALSE,45240,58000,71920
+Finance,Accounting,L2,Accountant,FALSE,58812,75400,93496
+Finance,Accounting,L3,Senior Accountant,FALSE,76003,97440,120826
+Finance,Accounting,L4,Accounting Manager,TRUE,97266,124700,154628
+Finance,Accounting,L5,Senior Accounting Manager,TRUE,124410,159500,197780
+Finance,Accounting,L6,Director of Accounting,TRUE,160602,205900,255316
+Finance,Financial Planning & Analysis,L1,Associate Financial Analyst,FALSE,51480,66000,81840
+Finance,Financial Planning & Analysis,L2,Financial Analyst,FALSE,66924,85800,106392
+Finance,Financial Planning & Analysis,L3,Senior Financial Analyst,FALSE,86486,110880,137491
+Finance,Financial Planning & Analysis,L4,FP&A Manager,TRUE,110682,141900,175956
+Finance,Financial Planning & Analysis,L5,Senior FP&A Manager,TRUE,141570,181500,225060
+Finance,Financial Planning & Analysis,L6,Director of FP&A,TRUE,182754,234300,290532
+Finance,Treasury,L1,Associate Treasury Analyst,FALSE,49920,64000,79360
+Finance,Treasury,L2,Treasury Analyst,FALSE,64896,83200,103168
+Finance,Treasury,L3,Senior Treasury Analyst,FALSE,83866,107520,133325
+Finance,Treasury,L4,Treasury Manager,TRUE,107328,137600,170624
+Finance,Treasury,L5,Senior Treasury Manager,TRUE,137280,176000,218240
+Finance,Executive Leadership,L7,"Vice President, Finance",TRUE,252252,323400,401016
+Corporate Services,Facilities,L1,Associate Facilities Coordinator,FALSE,35880,46000,57040
+Corporate Services,Facilities,L2,Facilities Coordinator,FALSE,46644,59800,74152
+Corporate Services,Facilities,L3,Senior Facilities Coordinator,FALSE,60278,77280,95827
+Corporate Services,Facilities,L4,Facilities Manager,TRUE,77142,98900,122636
+Corporate Services,Facilities,L5,Senior Facilities Manager,TRUE,98670,126500,156860
+Corporate Services,Procurement,L1,Associate Procurement Specialist,FALSE,43680,56000,69440
+Corporate Services,Procurement,L2,Procurement Specialist,FALSE,56784,72800,90272
+Corporate Services,Procurement,L3,Senior Procurement Specialist,FALSE,73382,94080,116659
+Corporate Services,Procurement,L4,Procurement Manager,TRUE,93912,120400,149296
+Corporate Services,Procurement,L5,Senior Procurement Manager,TRUE,120120,154000,190960
+Corporate Services,Procurement,L6,Director of Procurement,TRUE,155064,198800,246512
+Corporate Services,Administrative Support,L1,Associate Administrative Assistant,FALSE,34320,44000,54560
+Corporate Services,Administrative Support,L2,Administrative Assistant,FALSE,44616,57200,70928
+Corporate Services,Administrative Support,L3,Executive Assistant,FALSE,57658,73920,91661
+Corporate Services,Project Management Office,L1,Associate Project Manager,FALSE,51480,66000,81840
+Corporate Services,Project Management Office,L2,Project Manager,FALSE,66924,85800,106392
+Corporate Services,Project Management Office,L3,Senior Project Manager,FALSE,86486,110880,137491
+Corporate Services,Project Management Office,L4,PMO Manager,TRUE,110682,141900,175956
+Corporate Services,Project Management Office,L5,Senior PMO Manager,TRUE,141570,181500,225060
+Corporate Services,Project Management Office,L6,Director of PMO,TRUE,182754,234300,290532
+Corporate Services,Executive Leadership,L7,"Vice President, Corporate Services",TRUE,252252,323400,401016
+Risk & Compliance,Compliance,L1,Associate Compliance Analyst,FALSE,48360,62000,76880
+Risk & Compliance,Compliance,L2,Compliance Analyst,FALSE,62868,80600,99944
+Risk & Compliance,Compliance,L3,Senior Compliance Analyst,FALSE,81245,104160,129158
+Risk & Compliance,Compliance,L4,Compliance Manager,TRUE,103974,133300,165292
+Risk & Compliance,Compliance,L5,Senior Compliance Manager,TRUE,132990,170500,211420
+Risk & Compliance,Compliance,L6,Director of Compliance,TRUE,171678,220100,272924
+Risk & Compliance,Internal Audit,L1,Audit Associate,FALSE,49920,64000,79360
+Risk & Compliance,Internal Audit,L2,Auditor,FALSE,64896,83200,103168
+Risk & Compliance,Internal Audit,L3,Senior Auditor,FALSE,83866,107520,133325
+Risk & Compliance,Internal Audit,L4,Internal Audit Manager,TRUE,107328,137600,170624
+Risk & Compliance,Internal Audit,L5,Senior Internal Audit Manager,TRUE,137280,176000,218240
+Risk & Compliance,Internal Audit,L6,Director of Internal Audit,TRUE,177216,227200,281728
+Risk & Compliance,Enterprise Risk,L1,Associate Risk Analyst,FALSE,53040,68000,84320
+Risk & Compliance,Enterprise Risk,L2,Risk Analyst,FALSE,68952,88400,109616
+Risk & Compliance,Enterprise Risk,L3,Senior Risk Analyst,FALSE,89107,114240,141658
+Risk & Compliance,Enterprise Risk,L4,Enterprise Risk Manager,TRUE,114036,146200,181288
+Risk & Compliance,Enterprise Risk,L5,Senior Enterprise Risk Manager,TRUE,145860,187000,231880
+Risk & Compliance,Enterprise Risk,L6,Director of Enterprise Risk,TRUE,188292,241400,299336
+Risk & Compliance,Legal,L1,Paralegal,FALSE,56160,72000,89280
+Risk & Compliance,Legal,L2,Corporate Counsel,FALSE,73008,93600,116064
+Risk & Compliance,Legal,L3,Senior Corporate Counsel,FALSE,94349,120960,149990
+Risk & Compliance,Legal,L4,Legal Manager,TRUE,120744,154800,191952
+Risk & Compliance,Legal,L5,Senior Legal Manager,TRUE,154440,198000,245520
+Risk & Compliance,Legal,L6,Director of Legal,TRUE,199368,255600,316944
+Risk & Compliance,Executive Leadership,L7,"Vice President, Risk & Compliance",TRUE,252252,323400,401016
+Marketing,Brand & Content,L1,Associate Content Marketing Specialist,FALSE,42120,54000,66960
+Marketing,Brand & Content,L2,Content Marketing Specialist,FALSE,54756,70200,87048
+Marketing,Brand & Content,L3,Senior Content Marketing Specialist,FALSE,70762,90720,112493
+Marketing,Brand & Content,L4,Brand Marketing Manager,TRUE,90558,116100,143964
+Marketing,Brand & Content,L5,Senior Brand Marketing Manager,TRUE,115830,148500,184140
+Marketing,Brand & Content,L6,Director of Brand Marketing,TRUE,149526,191700,237708
+Marketing,Digital Marketing,L1,Associate Digital Marketing Analyst,FALSE,43680,56000,69440
+Marketing,Digital Marketing,L2,Digital Marketing Analyst,FALSE,56784,72800,90272
+Marketing,Digital Marketing,L3,Senior Digital Marketing Analyst,FALSE,73382,94080,116659
+Marketing,Digital Marketing,L4,Digital Marketing Manager,TRUE,93912,120400,149296
+Marketing,Digital Marketing,L5,Senior Digital Marketing Manager,TRUE,120120,154000,190960
+Marketing,Digital Marketing,L6,Director of Digital Marketing,TRUE,155064,198800,246512
+Marketing,Marketing Analytics,L1,Associate Marketing Analyst,FALSE,48360,62000,76880
+Marketing,Marketing Analytics,L2,Marketing Analyst,FALSE,62868,80600,99944
+Marketing,Marketing Analytics,L3,Senior Marketing Analyst,FALSE,81245,104160,129158
+Marketing,Marketing Analytics,L4,Marketing Analytics Manager,TRUE,103974,133300,165292
+Marketing,Marketing Analytics,L5,Senior Marketing Analytics Manager,TRUE,132990,170500,211420
+Marketing,Communications,L1,Associate Communications Specialist,FALSE,42120,54000,66960
+Marketing,Communications,L2,Communications Specialist,FALSE,54756,70200,87048
+Marketing,Communications,L3,Senior Communications Specialist,FALSE,70762,90720,112493
+Marketing,Communications,L4,Communications Manager,TRUE,90558,116100,143964
+Marketing,Communications,L5,Senior Communications Manager,TRUE,115830,148500,184140
+Marketing,Executive Leadership,L7,"Vice President, Marketing",TRUE,252252,323400,401016
+Human Resources,Talent Acquisition,L1,Associate Recruiter,FALSE,42120,54000,66960
+Human Resources,Talent Acquisition,L2,Recruiter,FALSE,54756,70200,87048
+Human Resources,Talent Acquisition,L3,Senior Recruiter,FALSE,70762,90720,112493
+Human Resources,Talent Acquisition,L4,Talent Acquisition Manager,TRUE,90558,116100,143964
+Human Resources,Talent Acquisition,L5,Senior Talent Acquisition Manager,TRUE,115830,148500,184140
+Human Resources,Talent Acquisition,L6,Director of Talent Acquisition,TRUE,149526,191700,237708
+Human Resources,HR Business Partnership,L1,HR Generalist,FALSE,48360,62000,76880
+Human Resources,HR Business Partnership,L2,HR Business Partner,FALSE,62868,80600,99944
+Human Resources,HR Business Partnership,L3,Senior HR Business Partner,FALSE,81245,104160,129158
+Human Resources,HR Business Partnership,L4,HR Business Partnering Manager,TRUE,103974,133300,165292
+Human Resources,HR Business Partnership,L5,Senior HR Business Partnering Manager,TRUE,132990,170500,211420
+Human Resources,HR Business Partnership,L6,Director of HR Business Partnering,TRUE,171678,220100,272924
+Human Resources,Total Rewards,L1,Associate Compensation Analyst,FALSE,49920,64000,79360
+Human Resources,Total Rewards,L2,Compensation Analyst,FALSE,64896,83200,103168
+Human Resources,Total Rewards,L3,Senior Compensation Analyst,FALSE,83866,107520,133325
+Human Resources,Total Rewards,L4,Total Rewards Manager,TRUE,107328,137600,170624
+Human Resources,Total Rewards,L5,Senior Total Rewards Manager,TRUE,137280,176000,218240
+Human Resources,Total Rewards,L6,Director of Total Rewards,TRUE,177216,227200,281728
+Human Resources,Learning & Development,L1,Associate Learning Specialist,FALSE,43680,56000,69440
+Human Resources,Learning & Development,L2,Learning Specialist,FALSE,56784,72800,90272
+Human Resources,Learning & Development,L3,Senior Learning Specialist,FALSE,73382,94080,116659
+Human Resources,Learning & Development,L4,Learning & Development Manager,TRUE,93912,120400,149296
+Human Resources,Learning & Development,L5,Senior Learning & Development Manager,TRUE,120120,154000,190960
+Human Resources,Executive Leadership,L7,"Vice President, Human Resources",TRUE,252252,323400,401016
+Corporate Services,Executive Leadership,L8,Chief Executive Officer,TRUE,463320,594000,736560
